@@ -15,6 +15,7 @@ Fanuc Backup & Restore is used to Creating the backup from the robot controller 
 **Connect to Fanuc Robot**
 
 Connect to the Fanuc robot using following steps. After connection only, Backup or Restore the files is able to perform.
+![image](https://user-images.githubusercontent.com/39395111/166147242-93977f69-2924-4807-ba66-a6c54837daa3.png)
 
 ✓ Enter the IP Address of the robot
 
