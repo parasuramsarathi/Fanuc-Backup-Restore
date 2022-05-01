@@ -9,6 +9,7 @@ Fanuc Backup & Restore is used to Creating the backup from the robot controller 
    • Restore a selected file (Single file upload)
 
    • Restore all the files in selected folder
+   
 ![image](https://user-images.githubusercontent.com/39395111/166147149-86546a94-a542-4cb5-9691-67129cf0f7d2.png)
 
 **Create Backup**
