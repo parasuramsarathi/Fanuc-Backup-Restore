@@ -25,6 +25,7 @@ If the connection is successful or unsuccessful, you can able to know from the s
 
 
 **Create Backup**
+
 To create the backup from the controller
 
 ✓ After the robot connected, Press Create Backup button.
@@ -39,7 +40,9 @@ To create the backup from the controller
 
 
 **Restore Backup**
+
 **1. Restore a selected file (Single file upload)**
+
 This will upload the selected file into the robot controller. The selected file should be the Fanuc Programming file (.TP, .LS, .KL, .MN) or Fanuc Variable file (.VR) or Fanuc IO Configuration file (.IO). Other format files are not allowed to restore.
 
 ✓ Select the file and Press “Ok”
@@ -51,6 +54,7 @@ This will upload the selected file into the robot controller. The selected file 
 ✓ If you want to show the log by using the “Show Restore log file” option under the Tools menu.
 
 **2. Restore all the files in selected folder**
+
 Restore by folder will not restrict by file formats. All the other options are same as Restore file.
 
 
