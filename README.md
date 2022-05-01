@@ -6,31 +6,18 @@ Fanuc Backup & Restore is used to Creating the backup from the robot controller 
 
 ➢ Restore Backup
 
-    • Restore a selected file (Single file upload)
+   • Restore a selected file (Single file upload)
 
-    • Restore all the files in selected folder
-
+   • Restore all the files in selected folder
 ![image](https://user-images.githubusercontent.com/39395111/166147149-86546a94-a542-4cb5-9691-67129cf0f7d2.png)
-
-**Connect to Fanuc Robot**
-
-Connect to the Fanuc robot using following steps. After connection only, Backup or Restore the files is able to perform.
-![image](https://user-images.githubusercontent.com/39395111/166147242-93977f69-2924-4807-ba66-a6c54837daa3.png)
-
-✓ Enter the IP Address of the robot
-
-✓ Enter the User Name & Password of the robot for user access credentials.
-
-✓ Press Connect button
-
-If the connection is successful or unsuccessful, you can able to know from the status bar.
-
 
 **Create Backup**
 
 To create the backup from the controller
 
-✓ After the robot connected, Press Create Backup button.
+✓ Connect the robot
+
+✓ After the robot getting connected with a PC, Press Create Backup button.
 
 ✓ Select the backup folder and press “OK”. Selected backup folder shows in the display.
 
@@ -59,26 +46,7 @@ This will upload the selected file into the robot controller. The selected file 
 
 Restore by folder will not restrict by file formats. All the other options are same as Restore file.
 
-
-**Open Web Browser**
-This option is open the Internet explorer and shows the robot status, programs and comments.
-
-✓ Enter the robot Ip Address and press “Open Web Browser” under “Tools menu”
-
-
-**Output window:**
-
-**Show all Network devices**
-
-This Option show all the connected network devices for checking the device is connceted or not connected.
-
-
-**Disconnect from the Robot**
-
-✓ Press the Disconnect button to disconnect robot
-
-
 **Help**
 
-Help menu shows help file and About the software.
+Help menu shows help file and About the software. Detail user manual is attached in the Help.
 
